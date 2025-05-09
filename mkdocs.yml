@@ -17,9 +17,12 @@ extra_javascript:
 
 nav:
   - Home: index.md
-  - Postagens técnicas:
+  - Blog Técnico:
     - Monitoramento:
-        - Grafana e Prometheus customizados: blog/monitoring/grafana_prometheus_custom.md
+        - Grafana e Prometheus customizados: blog-tec/monitoring/grafana_prometheus_custom.md
+
+  - Blog Acadêmico:
+    - O que é DevOps (minha visão): blog-academic/about_devops/devops-means.md
 
   - Projetos:
     - CI/CD:
