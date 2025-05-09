@@ -1,0 +1,27 @@
+site_name: José Silva | DevOps Engineer
+theme:
+  name: material
+  logo: assets/favicon.ico
+  favicon: assets/favicon.ico
+  custom_dir: docs/overrides
+  features:
+    - header.autohide
+    - announce.dismiss
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - stylesheets/extra.js
+
+
+nav:
+  - Home: index.md
+  - Postagens técnicas:
+    - Monitoramento:
+        - Grafana e Prometheus customizados: blog/monitoring/grafana_prometheus_custom.md
+
+  - Projetos:
+    - CI/CD:
+        - Azure Pipelines - Processo seletivo: blog/projects/engenhosaz.md
+
