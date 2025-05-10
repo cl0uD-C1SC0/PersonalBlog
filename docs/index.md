@@ -14,7 +14,7 @@ Mas sinta-se a vontade para explorar, criticar, comentar, tudo será muito bem-v
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&pause=1000&color=38BDF8&width=450&lines=DevOps+Engineer+%7C+Cloud+Instructor+" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&pause=1000&color=000000&width=450&lines=DevOps+Engineer+%7C+Cloud+Instructor+" />
 </p>
 
 
@@ -76,11 +76,12 @@ Além disso, **o que for possível automatizar, eu automatizarei!**
 
 ---
 
-## 💡 Projetos e Iniciativas
+## 💡 Coisas legais de saber
 
 - 📘 **Auxiliei diversos alunos** em seus respectivos LinkedIn's
 - 📰 **Ministrei cursos** sobre DevOps para empresas e jovens.
-- 📖 **Projeto: I AM** - Como ensinar o técnico para autistas com o uso de IA. (Em estudo)
+- 📖 **Compartilhador de Conhecimento:** Amo compartilhar meu conhecimento, e principalmente receber!
+- 🔭 **Extremamente curioso:** Ainda tenho muito a aprender sobre DevOps, SRE e Platform Engineering. Mas já sei algumas coisas 👌🏿
 
 ---
 
