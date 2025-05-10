@@ -632,6 +632,7 @@ kubectl autoscale deployment -n hyundai-project hyundai-project-dp --cpu-percent
 
 Abaixo, disponibilizo um link para você baixar ou copiar o conteúdo do script do Terraform
 
+[Clique aqui para visualizar o Terraform](https://raw.githubusercontent.com/cl0uD-C1SC0/PersonalBlog/refs/heads/main/docs/assets/projects_files/hyundai_hpa/tf-architecture.tf)
 
 ## Conclusão
 
